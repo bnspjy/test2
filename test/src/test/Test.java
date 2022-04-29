@@ -5,9 +5,9 @@ public class Test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("asdasd");
-		System.out.println("효진 개발2");
-		System.out.println("효진 개발3");
-		
+		System.out.println("2");
+		System.out.println("3");
+		System.out.println("ASDasdasd");
 	}
 
 }
